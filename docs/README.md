@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 # **About**
 Electrical engineering PhD student at MIT in the [Electromechanical Systems Group](https://emsg.mit.edu/). My work focuses on sensors and signal processing for energy systems. I'm also interested in electric machines, power electronics, and statistics.
 

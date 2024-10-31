@@ -10,6 +10,8 @@ I love playing/following tennis, playing trumpet, and reading.
 
 
 # **Links**
+Google Scholar Page: [Thomas C. Krause](https://scholar.google.com/citations?user=uPXBoZgAAAAJ&hl=en)
+
 IEEE Xplore Page: [Thomas C. Krause](https://ieeexplore.ieee.org/author/37088657720)
 
 Research Group: [Electromechanical Systems Group](https://emsg.mit.edu/)
